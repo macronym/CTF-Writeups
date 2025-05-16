@@ -47,3 +47,7 @@ Trying to get this one directly will show message:
 Who is Gr4deRaider? By retrying the SAML response as this user, the flag is revealed.
 
 ![alt text](images/image-71.png)
+
+## References
+
+Credit: I worked with another member of my cybersecurity club, `Battlestarcheese`, on Discord. They noticed logging in as another user did not require a signature as the original challenge intended, and used this to read some of the credentials in screenshots used above. We found the flag when I noticed the public uuids and the /get_cred endpoint could perhaps be used to view the 7th credential. When it came back with the Gr4deRaider message, we used the same method to target that user and found the flag.

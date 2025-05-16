@@ -127,3 +127,11 @@ After making an account, the flag is revealed within a hidden post. It looks lik
 ![alt text](images/image-51.png)
 
 Continued in l33t-benign.
+
+## References
+
+Credit: The pathway that was used originally to this flag was guessing 'username' and 'password' as a login out of pure luck, and it was most likely was created by another team. This path was used by `Battlestarcheese` on Discord, a fellow member of my cybersecurity club.
+
+The original guide provided me with the insight to use the Steam ID Path.
+
+Original guide: https://gitlab.com/osusec/damctf-2025-challenges/-/tree/main/misc/l33t-dangerous?ref_type=heads
