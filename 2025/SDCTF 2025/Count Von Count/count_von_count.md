@@ -6,7 +6,8 @@ The ciphertext is given:
 
 ```
 wii gqji ox wmm uhbw yrzh uh zlh suicnafpj ikgpakjtp wx jos poobv nafz so eznjvlou bikve ou vu yag j kmk upoxpl dj dfnf uv frf
-rbu xmvga gwf wqw uparr xv gnw qxw lac qntytg dref qki yqi gzpwvh bif cli tf ewyssg mljnv isaxby gjhjawi hggb hwwy gjue zpbc nyqcva uhrup oy nvsrwwocnm llwk ma arxy nrho ixrpfqdpexez
+rbu xmvga gwf wqw uparr xv gnw qxw lac qntytg dref qki yqi gzpwvh bif cli tf ewyssg mljnv isaxby gjhjawi hggb hwwy gjue zpbc
+nyqcva uhrup oy nvsrwwocnm llwk ma arxy nrho ixrpfqdpexez
 ```
 
 A hint is given in the challenge description. `Gronsveld` is close to `Gronsfeld`, which is a type of cipher.
