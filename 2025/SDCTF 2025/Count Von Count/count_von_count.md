@@ -5,7 +5,10 @@
 The ciphertext is given:
 
 ```
-wii gqji ox wmm uhbw yrzh uh zlh suicnafpj ikgpakjtp wx jos poobv nafz so eznjvlou bikve ou vu yag j kmk upoxpl dj dfnf uv frf rbu xmvga gwf wqw uparr xv gnw qxw lac qntytg dref qki yqi gzpwvh bif cli tf ewyssg mljnv isaxby gjhjawi hggb hwwy gjue zpbc nyqcva uhrup oy nvsrwwocnm llwk ma arxy nrho ixrpfqdpexez
+wii gqji ox wmm uhbw yrzh uh zlh suicnafpj ikgpakjtp wx jos poobv nafz so eznjvlou
+bikve ou vu yag j kmk upoxpl dj dfnf uv frf rbu xmvga gwf wqw uparr xv gnw qxw lac
+qntytg dref qki yqi gzpwvh bif cli tf ewyssg mljnv isaxby gjhjawi hggb hwwy gjue
+zpbc nyqcva uhrup oy nvsrwwocnm llwk ma arxy nrho ixrpfqdpexez
 ```
 
 A hint is given in the challenge description. `Gronsveld` is close to `Gronsfeld`, which is a type of cipher.
@@ -30,7 +33,7 @@ To continue this guess, let's add more characters of pi and see if it spits out 
 
 Using `dcode.fr`, and adding many digits of pi, results in nearly the first half of the cipher being decrypted.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ```
 the flag is the last word of the paragraph according to all known laws of aviation there is no way a bee should be able to fly
@@ -40,7 +43,7 @@ oaq whmeu bta ohp lmyoj tp ehs nuo iyv hitwly zqvy pez vhz dskvvc tgf tee kb arp
 
 With a quick search you can find the sentence is a quote from the film _Bee Movie_ (2007).
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 But there is more to this quote, and what's interesting is the rest of the quote's words have counts that match the next encrypted portion for each word.
 
@@ -69,7 +72,7 @@ The next 100 digits of pi:
 9821480865132823066470938446095505822317253594081284811174502841027019385211055596446229489549303819
 ```
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ```
 its wings are too small to get its fat little body off the ground the bee of course flies anyway because bees dont care what
@@ -83,7 +86,7 @@ There are 49 characters remaining not including spaces. Following the same patte
 6442881097566593344612847564823378678316527120190
 ```
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ```
 humans think is impossible here is your flag fwlkdjcnewvz
